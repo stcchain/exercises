@@ -1,10 +1,12 @@
+===========================Info=============================
+
 contract address
 0x2467636BEa0F3c2441227eeDBfFaC59f11D54a80
 
 Transaction Hash
 0xc067aaec62e03d509037b3deed644f551fe0c32d4a5d943aa5474d183d361491
 
-===========================================================
+=======================Smart Contract=======================
 
 pragma solidity ^0.4.16;
 contract Token {
