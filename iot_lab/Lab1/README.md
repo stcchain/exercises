@@ -4,8 +4,4 @@ Learning Objectives:
 2. Import/Design Temperature Sensor Dashboard
 3. Monitor readings
 
-Tools Used:
-
-1. Node-Red
-2. IoT Broker
-3. IoT Monitor
+Tools Used: Node-Red, IoT Broker and IoT Monitor
